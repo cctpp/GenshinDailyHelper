@@ -10,7 +10,7 @@ GenshinDailyHelper
 * **获取账号信息（区域和UID）**
 * **判断是否已经完成签到**
 * **未进行签到到执行签到动作**
-* **上述任何步骤出现异常都将判定为失败，并通过Github邮件提醒**
+* **上述任何步骤出现异常都将判定为失败，并通过Github邮件提醒**..
 
 运行结果
 ![运行图示](https://cdn.jsdelivr.net/gh/yinghualuowu/SakuraWallpaper@74c46f44/cnblog/head/genshin/buildsuccess.png)
